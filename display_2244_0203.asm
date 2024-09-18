@@ -1,3 +1,5 @@
+# Author: Jarret Billingsley, Proffesor
+
 # driver philosophy: if it's more than a single load or store, or
 # if it isn't blindingly obvious what it does (e.g. "magical stores"),
 # make it a driver function. otherwise, it's unnecessary.
