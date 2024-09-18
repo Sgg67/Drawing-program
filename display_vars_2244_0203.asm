@@ -1,3 +1,4 @@
+# Author: Jarret Billingsley, Proffesor
 
 .data 0xFFFF0000
 	display_ctrl:           .word 0       # 0xFFFF0000
