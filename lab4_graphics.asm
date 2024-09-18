@@ -1,3 +1,5 @@
+# Author: Jarret Billingsley, Proffesor
+
 .data
 	.eqv CURSOR_TILE 0
 	.eqv N_CURSOR_TILES 1
