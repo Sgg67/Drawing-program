@@ -1,3 +1,5 @@
+# Author: Jarret Billingsley, Proffesor
+
 .eqv DISPLAY_W        128
 .eqv DISPLAY_H        128
 .eqv DISPLAY_W_SHIFT    7
