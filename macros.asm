@@ -1,3 +1,4 @@
+# Author: Jarret Billingsley, Proffesor
 
 # puts a string literal into the .data segment and loads its address
 # into a register. use like:
